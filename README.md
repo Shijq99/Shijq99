@@ -1,5 +1,5 @@
 
-<a href="https://github.com/shijqi99" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=shijiaqi99&show_icons=true&count_private=true&theme=nord" /></a>
+<a href="https://github.com/shijq99" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=shijq99&show_icons=true&count_private=true&theme=vue" /></a>
 
 ### Hi there 👋
 
